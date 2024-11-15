@@ -1,4 +1,4 @@
 # SI-Penjualan-Toko
-Program Penjualan Toko sederhana dengan menggunakan bahasa pemrograman C++
+Program Penjualan Toko sederhana dengan menggunakan bahasa pemrograman C++ guna memenuhi TA (Tugas Akhir) mata kuliah Algoritma dan Pemrograman.
 
-Antonius Valentino Dharma Kusuma
+By Antonius Valentino Dharma Kusuma
